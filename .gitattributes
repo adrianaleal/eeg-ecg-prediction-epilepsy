@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-interactive_figures/* linguist-vendored
+interactive_figures/paper/* linguist-vendored
+interactive_figures/supplementary/* linguist-vendored
